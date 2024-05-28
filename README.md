@@ -20,9 +20,6 @@ Proyectos:
 
 ![Proyectos](imagenes/screenshot3.png)
 
-Testimonios:
-
-![Testimonios](imagenes/screenshot4.png)
 
 Contacto:
 
